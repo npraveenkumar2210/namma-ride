@@ -1,4 +1,10 @@
-# 🚖 Namma Ride – Bike Taxi App (Tamil Nadu)
+# 🚖 Namma Ride – Bike Taxi App (Tamil Nadu)**AI-powered Bike Taxi App for Tamil Nadu – Fast, Safe, and Affordable**
+- 🚀 Launching in Chennai, Coimbatore & Madurai
+- 🤖 AI Features: Smart Matching, Dynamic Pricing, Route Optimization
+- 🌐 Tamil Language Support + Local Payment Integration
+- 💰 Investment Opportunity detailed in Project Plan
+
+
 
 ## 📌 Project Overview  
 **Namma Ride** is a bike taxi app designed for Tamil Nadu. It offers riders affordable, safe rides and drivers a trusted platform to earn.  
