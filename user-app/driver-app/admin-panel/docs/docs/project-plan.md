@@ -83,3 +83,10 @@ Provide **fast, safe, and affordable bike taxi services** in Tamil Nadu.
 3. Build Rider App → Driver App → Admin Panel  
 4. Integrate AI features  
 5. Launch pilot in Chennai → expand statewide
+
+## 💰 Investment Opportunity
+- **Market Size:** Tamil Nadu has millions of daily commuters needing short-distance transport.
+- **Problem Solved:** Fast, safe, and affordable bike taxi service with AI-powered features.
+- **Revenue Potential:** Commission per ride + in-app ads + driver subscriptions.
+- **Scalability:** Launch in Chennai → expand to Coimbatore, Madurai → statewide rollout.
+- **Competitive Advantage:** AI dynamic pricing, smart matching, Tamil language support, local payment integration.
